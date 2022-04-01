@@ -28,3 +28,5 @@ persist_with: test_brasil_0303_default_datagroup
 explore: result_pipeline_iwmovimentos_db {}
 
 explore: result_pipeline_iwmovimento {}
+
+explore:  transito_paulo {}
